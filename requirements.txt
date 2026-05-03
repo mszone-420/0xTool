@@ -1,0 +1,5 @@
+flask==2.3.3
+yt-dlp==2024.12.13
+exifread==3.0.0
+PyPDF2==3.0.1
+Werkzeug==3.0.1
