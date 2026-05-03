@@ -14,7 +14,7 @@
 ## 🚀 One Line Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/0xTool.git
+git clone [https://github.com/mszone-420/0xTool.git]
 cd 0xTool
 pip install -r requirements.txt
 python app.py
